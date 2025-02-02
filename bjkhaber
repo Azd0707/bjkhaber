@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beşiktaş Haberleri</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Beşiktaş Haberleri</h1>
+        </div>
+    </header>
+
+    <main>
+        <section class="news-container">
+            <article class="news-item">
+                <h2>Beşiktaş'tan Son Dakika Transferi</h2>
+                <p>Beşiktaş, yeni sezon için transfer çalışmalarına hız verdi. Oyuncu listesinde önemli isimler yer alıyor...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaş, Galatasaray'ı 3-1 Yendi</h2>
+                <p>Beşiktaş, derbide Galatasaray'ı 3-1 mağlup etti. Maçın yıldızları, oyuncuların performansı büyük takdir topladı...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaş'ın Şampiyonlar Ligi Hedefi</h2>
+                <p>Beşiktaş, Şampiyonlar Ligi'nde bu sezonki hedeflerini açıkladı. Teknik direktör, kadrodan oldukça umutlu...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaşlı Taraftarlar Avrupa'da Coştu</h2>
+                <p>Beşiktaş taraftarları, takımlarını Avrupa'da yalnız bırakmıyor. Bu kez, maç sonrası sokaklarda büyük kutlamalar vardı...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaş'ta Sakatlıklar Devam Ediyor</h2>
+                <p>Beşiktaş'ta sakatlıklar başını ağrıtıyor. Geçen hafta yaşanan sakatlıklar sonrası kadroda değişiklikler yapıldı...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaş, Yeni Stadyum Projesini Açıkladı</h2>
+                <p>Beşiktaş Kulübü, yeni stadyum projelerini kamuoyuna duyurdu. Yeni stadyum, hem modern hem de taraftar dostu olacak...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaş'tan İyi Haber: Üst Düzey Performans</h2>
+                <p>Beşiktaş, ligdeki son maçta harika bir performans sergileyerek 3 puan aldı. Takımın ruhu çok yüksek...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaş'tan Yeni Sponsor Anlaşması</h2>
+                <p>Beşiktaş, yeni bir sponsorluk anlaşması imzalayarak gelirlerini artırmayı planlıyor...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaş Taraftarından Büyüleyici Destek</h2>
+                <p>Beşiktaş taraftarları, takımını maç boyunca büyük bir coşku ile destekledi. Maç sonrası Beşiktaş'a olan bağlılıkları bir kez daha gösterdi...</p>
+            </article>
+
+            <article class="news-item">
+                <h2>Beşiktaş Teknik Direktöründen Övgü</h2>
+                <p>Beşiktaş'ın teknik direktörü, oyuncularını takımı ligde zirveye taşımaya kararlı olduklarını belirtti...</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Beşiktaş Haberleri | Tüm hakları saklıdır.</p>
+    </footer>
+</body>
+</html>
